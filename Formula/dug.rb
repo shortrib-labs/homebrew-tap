@@ -1,8 +1,8 @@
 class Dug < Formula
   desc "macOS-native DNS lookup utility using the system resolver"
   homepage "https://github.com/shortrib-labs/dug"
-  url "https://github.com/shortrib-labs/dug/archive/refs/tags/v0.7.0.tar.gz"
-  sha256 "e682578f4abf4e440159b763b6300ece81f973ab9666c88099492ade4fe8c9cc"
+  url "https://github.com/shortrib-labs/dug/archive/refs/tags/v0.8.0.tar.gz"
+  sha256 "8a95a8bbea51d03ff614b87eccedaad42ef49dc4e78369161b0bceb44b30e422"
   license "MIT"
 
   depends_on :macos
